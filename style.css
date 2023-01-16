@@ -160,7 +160,7 @@ hr{
   100px 100px 80px rgba(0, 0, 0, 0.07)
 ;
 
-    transition: 0.5s;
+    transition: 0.30s;
 }
 .t-col:hover{
     box-shadow:
@@ -219,7 +219,7 @@ hr{
     position: absolute;
     width: 18rem;
     top: 30%;
-    left: 50%
+    left: 650px;
 }
 .flo-4{
     background-color: #000000;
