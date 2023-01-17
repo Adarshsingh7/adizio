@@ -201,7 +201,7 @@ hr{
     mask-image: linear-gradient(40deg,rgba(0,0,0,1.0) 10%,rgba(0,0,0,.80) 96%);
     position: absolute;
     width: 18rem;
-    top: 29%;
+    top: 24%;
 }
 .flo-2{
     background-color: #153892;
@@ -209,7 +209,7 @@ hr{
     mask-image: linear-gradient(40deg,rgba(0,0,0,1.0) 10%,rgba(0,0,0,.80) 96%);
     position: absolute;
     width: 18rem;
-    top: 38%;
+    top: 34%;
     left: 75%;
 }
 .flo-3{
@@ -218,8 +218,8 @@ hr{
     mask-image: linear-gradient(40deg,rgba(0,0,0,1.0) 10%,rgba(0,0,0,.80) 96%);
     position: absolute;
     width: 18rem;
-    top: 30%;
-    left: 650px;
+    top: 25%;
+    left: 50.6%;
 }
 .flo-4{
     background-color: #000000;
@@ -252,7 +252,7 @@ hr{
     mask-image: linear-gradient(40deg,rgba(0,0,0,1.0) 10%,rgba(0,0,0,.80) 96%);
     position: absolute;
     width: 18rem;
-    top: 76%;
+    top: 67%;
     left: 26%;
 }
 #testinomials .col-lg-3 :hover{
